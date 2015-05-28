@@ -268,7 +268,7 @@ $(document).ready(function () {
     getLocation();
     WeekDay();
     clickEvents();
-    graphicalHeight();
+//    graphicalHeight();
 });
 // Ready - END
 
